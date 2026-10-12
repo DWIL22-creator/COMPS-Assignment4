@@ -1,0 +1,11 @@
+From the timed_challenge section, I chose the reverse character challenge.
+My first time doing the challenge, I preformed it incorrectly, relying on negative indexing to work backwords through the string the user input in my answer variable.
+For my resubmission, I chose to focus on the stack data structure, enabling me to reverse the characters properly.
+Stacks are a linear data structure that relies on a Last In, First Out (LIFO) order. 
+The last value addded is the first one removed, which is most ideal for reversing a string because we want to start from the last character on.
+The time limit wasn't too much of a concern my second time around. 
+I had already created the basic structure of my program, but needed the stack elements that enabled me to incorporate the data structure.
+I still planned my ideas on paper to understand how I wanted to execute the stack implementation.
+Additionally, after every few lines a code, I tested my logic this time around to make sure it actually worked.
+A trade off I made the first time was building a generic data strucutre to reverse the string because I wasn't confident in my ability to implement the stack properly.
+This time around, I reviewed my notes before making edits, to build a more efficent structure that focused more on solving the problem, and was easier to debug than the first time.
